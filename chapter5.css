@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header-top {
+  padding: 20px;
+  text-align: center;
+}
+
+.header-bottom-content {
+  padding: 15px;
+  margin: 20px;
+  text-align: center;
+}
+
